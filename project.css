@@ -1,0 +1,138 @@
+body{
+  background-color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  margin:10px;
+  border: 15px yellow solid;
+  
+}
+
+#mainNavbar{
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+#mainNavbar .navbar-brand{
+  color: black;
+  font-size: 1.6rem;
+  
+}
+
+.navbar-light .navbar-toggler{
+  color: black;
+  border: 2px solid black;
+}
+
+.slash{
+  color: red;
+}
+
+#mainNavbar{
+  font-size: 1.3rem;
+}
+
+#header{
+  margin-top:50px;
+}
+
+#mainNavbar .nav-link{
+  color:black;
+}
+
+#title{
+  color:white;
+  text-shadow: 5px 5px 6px #000000;
+  font-size: 2.9rem;
+}
+
+h3{
+  font-size: 1.3rem;
+  font-family: 'Roboto', sans-serif;
+ 
+}
+
+#author{
+  font-size: 0.8rem;
+  
+}
+
+#proud{
+  font-size: 0.8rem;
+}
+
+.row{
+  text-align: left;
+  font-size: 1.1rem;
+  line-height: 2;
+ 
+}
+
+
+img{
+    max-width: 50%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#image{
+  border: 8px yellow solid;
+}
+
+
+#img-caption{
+  font-size:1.1rem;
+  
+}
+
+.bob_flacz{
+  background-color:yellow;
+  
+}
+
+
+.name{
+  margin-top:20px;
+  margin-bottom: 20px;
+  color: white;
+  text-shadow: 5px 5px 6px #000000;
+  font-size: 2.5rem;
+  text-align: left;
+}
+
+.margin{
+  margin:0;
+  
+}
+
+div.col-6.margin{
+  padding:0;
+}
+#bob_photo{
+  padding-right: 2px; 
+  padding-left: 2px; 
+  padding-bottom: 15px;
+}
+
+#flacz_photo{
+  
+  padding-right:2px;
+  padding-top:15px;
+  padding-bottom: 15px;
+}
+
+#flacz_desc{
+  padding-bottom: 0;
+  margin-bottom:0;
+}
+
+#img-div{
+  margin-bottom:40px;
+
+}
+
+#bob{
+  margin-left:30px;
+}
+
